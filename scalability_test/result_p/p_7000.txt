@@ -1,0 +1,21 @@
+"elapsed"
+"result.1" 36.111
+"result.2" 35.764
+"result.3" 35.683
+"result.4" 35.737
+"result.5" 35.749
+"result.6" 35.741
+"result.7" 35.869
+"result.8" 47.49
+"result.9" 41.889
+"result.10" 36.146
+"result.11" 35.67
+"result.12" 35.675
+"result.13" 35.549
+"result.14" 35.67
+"result.15" 35.677
+"result.16" 35.538
+"result.17" 35.6950000000001
+"result.18" 35.668
+"result.19" 35.626
+"result.20" 35.691

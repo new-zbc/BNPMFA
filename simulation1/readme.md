@@ -14,4 +14,4 @@ In the folder "Model_compare", we provide the performance of Dirichlet process (
 
 ## Plot
 
-To show the box plot of clustering performance measurements, we provide the plot functions for simulated results, including "plot_ARI.R", "plot_AMI.R", and "plot_NMI.R". These functions will generates Figure 2 of the manuscript and Figures S9 and S10. 
+To show the box plot of clustering performance measurements, we provide the plot functions for simulated results, including "plot_ARI.R", "plot_AMI.R", and "plot_NMI.R". 

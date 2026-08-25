@@ -1,0 +1,21 @@
+"elapsed"
+"result.1" 247.887
+"result.2" 250.543
+"result.3" 249.276
+"result.4" 249.047
+"result.5" 249.52
+"result.6" 242.059
+"result.7" 243.29
+"result.8" 243.242
+"result.9" 242.179
+"result.10" 241.386
+"result.11" 240.893
+"result.12" 242.926
+"result.13" 240.694
+"result.14" 241.665
+"result.15" 240.257
+"result.16" 242.584
+"result.17" 242.273
+"result.18" 243.611
+"result.19" 239.478
+"result.20" 243.483999999999

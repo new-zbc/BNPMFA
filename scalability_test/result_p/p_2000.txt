@@ -1,0 +1,21 @@
+"elapsed"
+"result.1" 13.383
+"result.2" 13.669
+"result.3" 13.451
+"result.4" 13.6
+"result.5" 13.443
+"result.6" 13.591
+"result.7" 13.423
+"result.8" 13.634
+"result.9" 13.397
+"result.10" 13.508
+"result.11" 13.408
+"result.12" 13.565
+"result.13" 13.3
+"result.14" 13.594
+"result.15" 13.311
+"result.16" 13.62
+"result.17" 13.342
+"result.18" 13.578
+"result.19" 13.434
+"result.20" 13.513

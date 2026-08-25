@@ -1,0 +1,21 @@
+"elapsed"
+"result.1" 43.589
+"result.2" 43.284
+"result.3" 48.616
+"result.4" 44.752
+"result.5" 44.369
+"result.6" 44.589
+"result.7" 43.547
+"result.8" 43.259
+"result.9" 43.304
+"result.10" 42.808
+"result.11" 43.1279999999999
+"result.12" 42.724
+"result.13" 43.188
+"result.14" 42.886
+"result.15" 42.8720000000001
+"result.16" 42.785
+"result.17" 42.556
+"result.18" 42.524
+"result.19" 43.452
+"result.20" 43.775
