@@ -69,6 +69,6 @@ if(sampleID %in% c(151669, 151670, 151671, 151672)){
       dir.create(paste0("reproduce/img"))
     }
 
-    ggsave(p, filename = paste0("reproduce/img/Figure3d.jpg"), width = 12, height = 9, units = "in", bg = "white")
+    ggsave(p, filename = paste0("reproduce/img/Figure2d.jpg"), width = 12, height = 9, units = "in", bg = "white")
     
 

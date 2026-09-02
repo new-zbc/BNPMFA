@@ -52,5 +52,5 @@ p3 = plot_dim(bnpmfa_est, sce1$label, title = "BNPMFA Embedding")
 
 p509 = cowplot::plot_grid(p_domain, p3, p1, p2,  ncol = 4)
 
-ggsave(p509, filename = paste0("reproduce/img/Figure4a.jpg"), width = 12, height = 3, units = "in")
+ggsave(p509, filename = paste0("reproduce/img/Figure3a.jpg"), width = 12, height = 3, units = "in")
 
