@@ -200,24 +200,3 @@ spatialFilter <- function(sce, cutoff_sample = 100, cutoff_feature = 0.1, cutoff
 }
 
 
-logLike <- function(data, s, z_est, gamma_est, D, D0){
-  N = dim(data)[1]
-  p = dim(data)[2]
-  result = 0
-  for(i in 1:N){
-    for(j in 1:p){
-      if(gamma_est[j] == 1){result = result + dpois(data[i,j], lambda = s[i]*D[j, z_est[i]], log = T)}
-      else{result = result + dpois(data[i,j], lambda = s[i]*D0[j], log = T)}
-    }
-  }
-  return(result)
-}
-
-
-pBIC <- function(data, s, z_est, gamma_est, D, D0){
-  term1 = -2 * logLike(data, s, z_est, gamma_est, D, D0)
-  N = dim(data)[1]
-  p = dim(data)[2]
-  term2 = log(N) * (sum(gamma_est) * length(unique(z_est)) + p - sum(gamma_est))
-  return(term1 + term2)
-}
